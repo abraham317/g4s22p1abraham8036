@@ -7,7 +7,7 @@ package g4s22p1abraham8036;
 
 /**
  *
- * @author danyg
+ * 
  */
 public class G4S22P1abraham8036 {
 
