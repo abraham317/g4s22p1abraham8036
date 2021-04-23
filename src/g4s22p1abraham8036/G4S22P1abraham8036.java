@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p1daniel8036;
+package g4s22p1abraham8036;
 
 /**
  *
  * @author danyg
  */
-public class G4S22P1Daniel8036 {
+public class G4S22P1abraham8036 {
 
     /**
      * @param args the command line arguments

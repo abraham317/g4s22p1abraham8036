@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p1daniel8036;
+package g4s22p1abraham8036;
 
 /**
  *
@@ -41,7 +41,6 @@ public class FrmPrincipal extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 2, 20)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(153, 0, 0));
         jLabel1.setText("Estamos empezando a programar en NetBeans ");
 
         jLabel2.setText("Ingresa tu nombre");
@@ -56,7 +55,6 @@ public class FrmPrincipal extends javax.swing.JFrame {
         lblsaludo.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel3.setForeground(new java.awt.Color(255, 0, 255));
         jLabel3.setText("Suma");
 
         txtnum1.setToolTipText("Ingresa un numero");
